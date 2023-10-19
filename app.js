@@ -12,3 +12,10 @@ buttons.forEach(button =>{
     })
 })
 
+// document.addEventListener("click", (event)=>{
+//     const color = event.target.id;
+//     body.style.background = color;
+// });
+
+
+
